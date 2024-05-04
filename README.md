@@ -1,4 +1,4 @@
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/llancruzz/Desktop/beecrowd/assets/img/beecrowd.png?version%3D1714859959720)
+![Becrowd Logo Preview](./assets/img/beecrowd.png)
 
 # BEECROWD
 
